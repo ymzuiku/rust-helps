@@ -1,7 +1,7 @@
 {
   "title": "Rust helps",
-  "homepage": "https://rust.writeflowy.com",
-  "version": "1.4.6",
+  "homepage": "https://github.com/ymzuiku/rust-helps",
+  "version": "1.4.7",
   "path": "/md/",
   "files": [
     "tide",
