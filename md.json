@@ -1,0 +1,14 @@
+{
+  "title": "Rust helps",
+  "homepage": "https://rust.writeflowy.com",
+  "version": "1.4.6",
+  "path": "/md/",
+  "files": [
+    "tide",
+    "playground-tide-mongodb",
+    "mongo-rust-driver",
+    "sqlx",
+    {"name":"reqwest", "url":"https://raw.githubusercontent.com/seanmonstar/reqwest/master/README.md"},
+    {"name":"chrono","url":"https://raw.githubusercontent.com/chronotope/chrono/main/README.md"}
+  ]
+}
